@@ -1,0 +1,5 @@
+﻿  multipleexceptions.cpp
+E:\c++ + QT + c#\progcpp.pdf exercises\codes\Chapter22\Chapter22\Chapter22\multipleexceptions.cpp(19,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  rethrow.cpp
+  Generating Code...
+  Chapter22.vcxproj -> E:\c++ + QT + c#\progcpp.pdf exercises\codes\Chapter22\Chapter22\x64\Debug\Chapter22.exe

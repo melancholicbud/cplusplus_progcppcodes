@@ -1,0 +1,5 @@
+﻿  friendclass.cpp
+  readonlyrational.cpp
+E:\c++ + QT + c#\progcpp.pdf exercises\codes\chapter15\Chapter15\Chapter15\readonlyrational.cpp(42,19): error C2374: 'fract': redefinition; multiple initialization
+E:\c++ + QT + c#\progcpp.pdf exercises\codes\chapter15\Chapter15\Chapter15\readonlyrational.cpp(40): message : see declaration of 'fract'
+  Generating Code...

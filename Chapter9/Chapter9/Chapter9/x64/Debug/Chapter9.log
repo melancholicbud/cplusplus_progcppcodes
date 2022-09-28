@@ -1,0 +1,6 @@
+﻿  Source2.cpp
+E:\c++ + QT + c#\progcpp.pdf exercises\codes\Chapter9\Chapter9\Chapter9\Source2.cpp(851,24): warning C4305: 'argument': truncation from 'int' to 'char'
+E:\c++ + QT + c#\progcpp.pdf exercises\codes\Chapter9\Chapter9\Chapter9\Source2.cpp(851,20): warning C4309: 'argument': truncation of constant value
+E:\c++ + QT + c#\progcpp.pdf exercises\codes\Chapter9\Chapter9\Chapter9\Source2.cpp(852,11): warning C4305: 'argument': truncation from 'int' to 'char'
+E:\c++ + QT + c#\progcpp.pdf exercises\codes\Chapter9\Chapter9\Chapter9\Source2.cpp(852,7): warning C4309: 'argument': truncation of constant value
+  Chapter9.vcxproj -> E:\c++ + QT + c#\progcpp.pdf exercises\codes\Chapter9\Chapter9\x64\Debug\Chapter9.exe

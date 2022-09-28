@@ -1,0 +1,7 @@
+﻿  intlist6.cpp
+  intlist6.h
+  refcount.cpp
+  smartlist.cpp
+  Generating Code...
+x64\Debug\intlist6.obj : warning LNK4042: object specified more than once; extras ignored
+  Chapter18.vcxproj -> E:\c++ + QT + c#\progcpp.pdf exercises\codes\Chapter18\Chapter18\x64\Debug\Chapter18.exe

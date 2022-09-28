@@ -1,0 +1,4 @@
+﻿  exercises.cpp
+E:\c++ + QT + c#\progcpp.pdf exercises\codes\Chapter11\Chapter11\Chapter11\exercises.cpp(27): warning C4717: 'sum_positive': recursive on all control paths, function will cause runtime stack overflow
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+E:\c++ + QT + c#\progcpp.pdf exercises\codes\Chapter11\Chapter11\x64\Debug\Chapter11.exe : fatal error LNK1120: 1 unresolved externals

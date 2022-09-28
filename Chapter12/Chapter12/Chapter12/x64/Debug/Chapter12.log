@@ -1,0 +1,8 @@
+﻿  comparepermutations.cpp
+E:\c++ + QT + c#\progcpp.pdf exercises\codes\Chapter12\Chapter12\Chapter12\comparepermutations.cpp(13,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\c++ + QT + c#\progcpp.pdf exercises\codes\Chapter12\Chapter12\Chapter12\comparepermutations.cpp(41,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\c++ + QT + c#\progcpp.pdf exercises\codes\Chapter12\Chapter12\Chapter12\comparepermutations.cpp(50,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\c++ + QT + c#\progcpp.pdf exercises\codes\Chapter12\Chapter12\Chapter12\comparepermutations.cpp(85,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  randompermute.cpp
+  Generating Code...
+  Chapter12.vcxproj -> E:\c++ + QT + c#\progcpp.pdf exercises\codes\Chapter12\Chapter12\x64\Debug\Chapter12.exe
