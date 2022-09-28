@@ -18,5 +18,5 @@ public:
 	// Concatenate another string onto the back of the existing text
 	virtual void append(const std::string& extra);
 };
-
+// adding this code for git training
 #endif // !TEXT_H_INCLUDED
